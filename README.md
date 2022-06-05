@@ -1,0 +1,4 @@
+Run:
+```
+flask run
+```
